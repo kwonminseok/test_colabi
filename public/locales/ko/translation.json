@@ -1,0 +1,409 @@
+{
+    "type": "ko",
+    "main":{
+        "title":"바이낸스 선물 API 거래 툴",
+        "sub":"을 이용하여 쉽고 다양한 거래 환경에서 트레이딩해보세요.",
+        "gotrade":"거래소 둘러보기",
+        "login":"로그인",
+        "more":"더 보기",
+        "info":{
+            "firstT":"간단한 호가창 거래",
+            "firstS":"세가지 타입으로 보다 편리하게",
+            "firstC":"듀얼, 싱글모드 두가지, 총 세가지 지원.",
+            "firstCC":"태블릿에서는 호가창모드를 통해 이용가능.",
+            "secondT":"스탑로스를 더이상 기다리지 마세요",
+            "secondS":"차트 종가 주문, 스탑로스 예약 지원",
+            "secondC":"스탑로스 주문 예약기능 제공.",
+            "secondCC":"차트 시간별 종가 주문기능 제공.",
+            "thirdT": "보기편한 전송내역, 실현손익 내역 UI",
+            "thirdS": "자산관리를 보다 편하게",
+            "thirdC":"쉽고 정확하게 확인하는 전송내역과 손익내역.",
+            "thirdCC":"날짜별,종목별 확인가능."
+        }
+    },
+    "forgetpass":{
+        "title":"로그인 비밀번호 초기화",
+        "email":"이메일",
+        "temporary":"임시 비밀번호 발급",
+        "temcom":"해당 이메일로 임시 비밀번호가 발급되었습니다. 로그인 후 수정바랍니다."
+    },
+    "qnaemail":{
+        "success":"문의 완료",
+        "sucon":"문의하신 내용이 정상적으로 접수되었습니다. 추후 이메일로 답변이 전송됩니다.",
+        "fail": "문의 실패",
+        "failcon":"알 수 없는 오류로 실패하였습니다. 추후 다시 시도 부탁드립니다."
+    },
+    "apicheck":{
+        "available":"등록가능한 API입니다.",
+        "not": "사용할 수 없는 API입니다."
+    },
+    "customlayout":{
+        "title":"레이아웃 변경",
+        "chart":"차트",
+        "orderbook":"오더북",
+        "recents":"최근거래",
+        "positionOrders":"포지션/주문 열기",
+        "reset":"기본 레이아웃으로"
+    },
+    "login": {
+        "title":"로그인",
+        "register": "계정 만들기",
+        "forget":"비밀번호 잊으셨나요",
+        "invaildemail":"올바른 이메일 주소를 입력해 주세요",
+        "notemail":"이메일 주소를 입력해 주세요",
+        "notpassword":"비밀번호를 입력해 주세요",
+        "invalidpassword":"가입하지 않은 이메일 계정이거나, 잘못된 비밀번호입니다.",
+        "notyetbinance":"아직 바이낸스 회원이 아니신가요?",
+        "registerbinance":"기존 API 등록시 7 일 멤버십 평가판이 부여됩니다.",
+        "trialbinance":"무료 맴버쉽 바이낸스 가입하기"
+    },
+    "accountregister":{
+        "title":"계정 만들기",
+        "subtitle":"지금 등록하고 14일 트라이얼 이용하세요",
+        "email":"이메일",
+        "password":"비밀번호",
+        "nickname":"닉네임",
+        "createaccount":"회원가입",
+        "alreadyregistered":"이미 회원이신가요?",
+        "login":"로그인",
+        "check":"중복 확인",
+        "apicheck":"API 확인",
+        "invalidapikey":"API key를 정확히 입력해 주세요",
+        "invalidsecretkey":"Secret Key를 정확히 입력해 주세요",
+        "availableapi":"사용가능한 API입니다",
+        "invalidemail":"올바른 이메일 주소를 입력해 주세요",
+        "notemail":"이메일 주소를 입력해 주세요",
+        "existemail":"이미 존재하는 이메일 계정입니다",
+        "existnick":"사용중인 닉네임입니다",
+        "availablenick":"사용가능한 닉네임입니다.",
+        "checknick":"닉네임 중복확인을 해주십시오",
+        "invalidpassword":"최소 8자이상이어야 하며 문자,숫자,특수문자를 포함해야 합니다.",
+        "notpassword":"비밀번호를 입력해 주세요",
+        "notenoughnick":"3자이상 입력해주세요",
+        "checkterm":"이용약관을 읽고 동의했습니다",
+        "bitterms":"비트콜라비 약관",
+        "termsagree":"저는 비트콜라비 이용약관에 동의합니다",
+        "apialready":"트라이얼 받은 API입니다. 트라이얼을 받을 수 없습니다. 그래도 가입하시겠습니까?",
+        "cantapi":"트라이얼을 받을 수 없는 API입니다. 추후 수정을 해도 받을 수 없습니다. 그래도 가입하시겠습니까?"
+        
+    },
+    "verficateaccount":{
+        "title":"계정 인증",
+        "subtitle":"이메일 주소로 발송한 인증 코드를 입력하십시오",
+        "validtime":"인증코드는 10분간 유효합니다.",
+        "invalid":"유효한 인증코드가 아니거나 유효기간이 만료되었습니다. 다시 시도해 주세요..",
+        "resend":"이메일 재전송",
+        "lefttime":"이메일 재전송 >>"
+    },
+    "setting":{
+        "welcome":"환영합니다!",
+        "subtitle":"지금 바로 API를 등록하고 맴버쉽을 무료로 이용해보세요",
+        "freemember":"무료 맴버쉽 바이낸스 가입하기",
+        "api":"API 연동",
+        "trading":"트레이딩 바로가기"
+    },
+    "buttontoast":{
+        "noneapi":"등록된 API가 없습니다.",
+        "apiinvalid":"API가 유효하지 않습니다.",
+        "cannottrade":"거래 불가능한 API입니다. 바이낸스 웹 사이트에서 편집 후 사용하세요.",
+        "notmember":"멤버십에 가입해 주세요.",
+        "guest":"로그인해 주세요."
+    },
+    "lang": "한국어",
+    "register": {
+        "title": "회원가입",
+        "width": "100px"
+    },
+    "trade": "거래하기",
+    "contact":{
+        "title": "고객센터",
+        "notice": "공지사항",
+        "guide": "이용안내",
+        "qna": "문의",
+        "faq": "자주하는 질문",
+        "terms": "이용약관"
+    },
+    "navbaraccount": {
+        "login": "로그인",
+        "createaccount": "회원가입",
+        "logged": {
+            "trade": "거래하기",
+            "qna": "문의하기",
+            "account": "계정",
+            "balance": "밸런스",
+            "logout": "로그아웃"
+        }
+    },
+    "createbinance": {
+        "register": "아직 바이낸스 회원이 아니신가요?",
+        "benefit": "수수료 할인 혜택받고 가입하기"
+    },
+    "notices": {
+        "notice": "공지사항",
+        "guide": "이용안내",
+        "qna": "문의",
+        "terms": "이용약관",
+        "no": "번호",
+        "subject": "제목",
+        "date": "날짜",
+        "content": "문의내용",
+        "email": "이메일",
+        "submit": "제출"
+    },
+    "account": {
+        "title": "내 정보",
+        "email": "이메일",
+        "pw": "비밀번호",
+        "pwchange": "비밀번호 변경",
+        "nickname": "닉네임",
+        "apikey": "API key",
+        "secret": "Secret key",
+        "apichange": "API key & Secret key 변경",
+        "membership": "멤버십",
+        "subscribe": "멤버십 구독",
+        "extends": "멤버십 연장",
+        "membershiphistory": "멤버십 내역",
+        "date": "날짜",
+        "billing": "지불",
+        "action": "액션",
+        "expired": "기한",
+        "mypage": "마이 페이지"
+    },
+    "passwordch":{
+        "title":"비밀번호 변경",
+        "cupw":"기존 비밀번호",
+        "newpw":"새로운 비밀번호",
+        "newpwcheck":"새로운 비밀번호 확인",
+        "check":"확인",
+        "notenter":"비밀번호를 입력하십시오.",
+        "invalid":"비밀번호가 올바르지 않습니다.",
+        "ifvalid":"최소 8자이상이어야 하며 문자,숫자,특수문자를 포함해야 합니다.",
+        "newnot":"새로운 비밀번호를 입력해주세요.",
+        "checknew":"비밀번호를 다시 확인하십시오.",
+        "changepw":"비밀번호가 변경되었습니다."
+    },
+    "apich":{
+        "title":"API KEY 변경",
+        "sub":"API KEY 등록",
+        "check":"확인",
+        "invalid":"사용할 수 없는 API입니다.",
+        "valid":"등록가능한 API입니다.",
+        "newok":"새로운 API 등록 완료",
+        "changeok":"API 수정 완료",
+        "nodata":"API Key와 Secret Key를 입력해주세요",
+        "canceltrial":"트라이얼중 api변경하시면 트라이얼이 취소됩니다. 그래도 변경하시겠습니까?"
+    },
+    "balance": {
+        "title": "밸런스",
+        "marginbalance": "증거금 잔고",
+        "walletbalance": "지갑 잔고",
+        "availablebalance": "사용가능 잔고",
+        "unrealizedpnl": "미실현 손익",
+        "date": "날짜",
+        "fromwallet": "선물지갑에서 전송",
+        "towallet": "선물지갑으로 전송",
+        "dwhistory": {
+            "title": "입출금 내역",
+            "transfer": "전송내역",
+            "totaldeposit": "입금 총액",
+            "totalwithdraw": "출금 총액",
+            "deposit": "입금",
+            "withdraw": "출금",
+            "net": "순 전송 금액",
+            "anet": "누적 순 전송 금액"
+        },
+        "pnlhistory": {
+            "title": "실현손익 내역",
+            "totalprofit": "총 수익",
+            "totalloss": "총 손실",
+            "netpnl": "순 손익",
+            "realizedpnl": "실현 손익",
+            "accumulatedpnl": "누적 실현 손익",
+            "contract": "계약"
+        }
+    },
+    "chart": "차트",
+    "orderbook": {
+        "title": "오더북",
+        "option": "옵션",
+        "group":"그룹화",
+        "columns":"열",
+        "single": "싱글",
+        "dual": "듀얼",
+        "price": "가격",
+        "ordermode":"오더북 거래 모드"
+    },
+    "recenttrades": "최근거래",
+    "liquidation": "청산내역",
+    "order": {
+        "title": "주문",
+        "sub":"주문하기",
+        "marginmode": {
+            "title": "마진 모드",
+            "cross": "교차",
+            "isolated": "격리",
+            "confirm": "확인",
+            "description_c": "교차 마진 모드: 모든 포지션이 청산을 방지하기 위해 선물 계정의 모든 증거금 잔고를 사용합니다. 청산이 발생할 경우 트레이더는 모든 증거금 잔고와 공개 포지션을 잃을 수 있습니다.",
+            "description_i": "격리 마진 모드: 해당 포지션에 지정된 증거금이 특정 금액으로 제한됩니다. 만약에 마진이 유지 증거금 레벨 밑으로 떨어지면 포지션이 청산됩니다. 그러나 이 모드에서는 원하는대로 증거금을 추가하거나 제거할 수 있습니다."
+        },
+        "leverage": {
+            "title": "레버리지 조정",
+            "maximumtext": "현재 레버리지에서 최대 포지션:",
+            "confirm": "확인"
+        },
+        "limit": {
+            "title": "지정",
+            "postonly": "포스트 온리",
+            "reduceonly": "리듀스 온리"
+        },
+        "stop": {
+            "title": "스탑",
+            "reduceonly": "리듀스 온리"
+        },
+        "reservation": {
+            "title": "예약",
+            "time": "시간"
+        },
+        "buy": "매수/롱",
+        "sell": "매도/숏",
+        "cost": "비용"
+    },
+    "wallet": {
+        "title": "자산",
+        "marginbalance": "마진 잔고",
+        "walletbalance": "지갑 잔고",
+        "unrealizedpnl": "미실현 손익",
+        "availablebalance": "사용가능 잔고",
+        "amount": "총액",
+        "available": "사용가능",
+        "crossmarginratio": "교차마진 비율",
+        "leverage": "배 레버리지"
+    },
+    "alarm": {
+        "title": "알람",
+        "symbol": "기호",
+        "action": "액션",
+        "reachprice": {
+            "title": "가격 도달",
+            "price": "가격",
+            "markprice": "현재 가격",
+            "option": {
+                "title": "옵션",
+                "once": "한번",
+                "everytime": "매번"
+            }
+        },
+        "reachvolume": {
+            "title": "거래량 도달",
+            "volume": "거래량",
+            "timebasis": "시간 기준",
+            "volumebasis": {
+                "title": "거래량 기준",
+                "all": "모든",
+                "buy": "매수",
+                "sell": "매도"
+            }
+        },
+        "soaringplunged": {
+            "title": "급등, 급락",
+            "pricechange": "가격변동",
+            "time": "시간(초)",
+            "option": {
+                "title": "옵션",
+                "all": "모든",
+                "soaring": "급등",
+                "plunged": "급락"
+            }
+        }      
+    },
+    "positions": {
+        "symbol": "기호",
+        "position": {
+            "title": "포지션",
+            "size": "규모",
+            "entryprice": "진입 가격",
+            "markprice": "시장 평균가",
+            "liqprice": "청산가",
+            "pnl": "PNL(ROE %)",
+            "closepostion": "포지션 종료",
+            "marginratio": "마진비율",
+            "margin": "마진",
+            "cancel": "취소",
+            "cancelall": "전부 취소"
+        },
+        "activeorder": {
+            "title": "주문 활성화",
+            "sub":"활성화", 
+            "qty": "수량",
+            "orderprice": "주문 가격",
+            "filled": "입력됨",
+            "remaining": "잔여",
+            "reduceonly": "리듀스 온리",
+            "cancelall": "전부 취소",
+            "nono:":"예",
+            "no":"아니오",
+            "cancel":"취소"
+        },
+        "stops": {
+            "title": "중지",
+            "qty": "수량",
+            "orderprice": "주문 가격",
+            "triggerbasis": "트리거 기준",
+            "triggerprice": "트리거 가격",
+            "reduceonly":"리듀스 온리",
+            "cancelall": "전부 취소",
+            "kys:": " 예",
+            "no":"아니오",
+            "cancel":"취소"
+        },
+        "stopreservation": {
+            "title": "예약 중지",
+            "sub":"예약 중지",
+            "type": "타입",
+            "size": "규모",
+            "reachprice": "도달 가격",
+            "triggerprice": "트리거 가격",
+            "orderprice": "주문 가격",
+            "trigercondition":"트리거 조건",
+            "stopprice":"스탑 가격",
+            "cancel": "취소",
+            "cancelall": "전부 취소"
+        }
+    },
+    "notvalid":{
+        "or":"또는",
+        "totrade":"후 이용가능합니다",
+        "cantnottrade":"거래가 불가능한 API입니다.",
+        "validapi": "올바른 API를 등록해 주세요",
+        "modifyapi":"API 수정하기",
+        "registerapi":"API키 등록",
+        "joinmembership":"멤버십 가입하기"
+    },
+    "searchSymbol":{
+        "last":"마지막 가격",
+        "search":"조회"
+    },
+    "toast":{
+        "LIMIT":"지정가 ",
+        "MARKET":"시장가 ",
+        "STOP":"스탑 ",
+        "TAKE_PROFIT":"이익 실현 ",
+        "BUY":"매수 주문 ",
+        "SELL":"매도 주문 ",
+        "PARTIALLY_FILLED":"부분 체결 완료",
+        "FILLED":"체결 완료",
+        "CANCELED":"취소 완료 ",
+        "SUCCESS":"주문 제출 ",
+        "FAILURE":"주문 거절 ",
+        "KLINE":"차트 종가 ",
+        "RESERVATION":"스탑 예약 ",
+        "modechange":"마진 모드 조정 성공",
+        "levechange":"레버리지 조정 성공",
+        "mailsuccess":"이메일 코드 전송 성공",
+        "mailtoomany":"Too many requests. Please try again later.",
+        "mailfailed":"Please check that the mail verification code has been sent",
+        "unkwonError":"An unknown error has occurred.",
+        "RESERVEMAX":"예약가능 갯수를 초과하였습니다.",
+        "RESERVENOSYM": "주문이 불가능한 종목입니다."
+    }
+}

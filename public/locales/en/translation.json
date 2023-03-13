@@ -1,0 +1,408 @@
+{
+    "type": "en",
+    "main":{
+        "title":"Binance Futures API trading tool",
+        "sub":"Trade in easy and diverse trading environments",
+        "gotrade":"View Trading",
+        "login":"Login",
+        "more":"More",
+        "info":{
+            "firstT":"Simple Orderbook Trade",
+            "firstS":"More convenient with three types",
+            "firstC":"Support dual, single mode, total three types",
+            "firstCC":"Also available on tablet.",
+            "secondT":"Stop waiting for Stop loss order anymore",
+            "secondS":"Chart close price order, stop loss reservation support",
+            "secondC":"Provides Stop loss order reservation",
+            "secondCC":"Provides hourly chart close price order",
+            "thirdT": "Easy-to-view transfer history, PNL history UI",
+            "thirdS": "Make asset management more convenient",
+            "thirdC":"Easily and accurately check the transfer history and PNL history.",
+            "thirdCC":"Checkable by date and contract."
+        }
+    },
+    "forgetpass":{
+        "title":"Reset Login Password",
+        "email":"Email",
+        "temporary":"Temporary password issued",
+        "temcom":"A temporary password has been issued to that email. Please change after login."
+    },
+    "qnaemail":{
+        "success":"Request Completed",
+        "sucon":"Request has been successfully received. answer will be sent to you later by email.",
+        "fail": "Request Failed",
+        "failcon":"Failed with an unknown error. Please try again later."
+    },
+    "apicheck":{
+        "available":"This API can be registered.",
+        "not": "This API cannot be used."
+    },
+    "customlayout":{
+        "title":"Customize Layout",
+        "chart":"chart",
+        "orderbook":"orderbook",
+        "recents":"recents",
+        "positionOrders":"Position/Orders",
+        "reset":"Back to default Layout"
+    },
+    "login": {
+        "title":"Log In",
+        "register": "Create an Account",
+        "forget":"Forget password?",
+        "invaildemail":"Please enter a correct email address",
+        "notemail":"Please enter your email address",
+        "notpassword":"Please enter your password",
+        "invalidpassword":"Email account have not be registered, or incorrect password.",
+        "notyetbinance":"Not yet a Binance member?",
+        "registerbinance":"7 days of membership trial is provided when registering an existing API",
+        "trialbinance":"Register and get 14-day membership trial"
+    },
+    "accountregister":{
+        "title":"Create an Account",
+        "subtitle":"Register now and get a 14-day trial",
+        "email":"Email",
+        "password":"Password",
+        "nickname":"Nickname",
+        "createaccount":"Register",
+        "alreadyregistered":"Already registered?",
+        "login":"Log in",
+        "check":"Check",
+        "apicheck":"API check",
+        "invalidapikey":"Please enter the correct API Key",
+        "invalidsecretkey":"Please enter the correct Secret Key",
+        "availableapi":"Available API.",
+        "invalidemail":"Please enter a valid email address.",
+        "notemail":"Please enter your email address.",
+        "existemail":"Email address already exists.",
+        "existnick":"The nickname is currently in use.",
+        "availablenick":"Available nickname.",
+        "checknick":"Please check your nickname",
+        "invalidpassword":"Password must be at least 8 characters with 1 letter, 1 number and 1 special character.",
+        "notpassword":"Please enter your password.",
+        "notenoughnick":"Please enter at least 3 characters",
+        "checkterm":"I have read and agree to the Terms of Use",
+        "bitterms":"Bitcolabi's Terms",
+        "termsagree":"I agree to Bitcolabi's Terms",
+        "apialready":"This API has already been given a Trial. You can't get a Trial. Would you like to register anyway?",
+        "cantapi":"This API is not available for trial. Even if you change it later, you cannot receive it. Would you like to register anyway?"
+    },
+    "verficateaccount":{
+        "title":"Account verification",
+        "subtitle":"Enter the verification code sent to the email address ",
+        "invalid":"It is not a valid verification code or has expired. please try again.",
+        "validtime":"The verification code is valid for 10 minutes.",
+        "resend":"Resend Email",
+        "lefttime":"Resend Email >>"
+    },
+    "setting":{
+        "welcome":"Welcome!",
+        "subtitle":"Register API now and try free membership",
+        "freemember":"Register binance for free membership",
+        "api":"Register API",
+        "trading":"Trading"
+    },
+    "buttontoast":{
+        "noneapi":"There is no registered API.",
+        "apiinvalid":"This api is not available.",
+        "cannottrade":"This is a non-tradable api. Please use it after editing it on the Binance website.",
+        "notmember":"Please join the membership.",
+        "guest":"Please Log In."
+    },
+    "lang": "English",
+    "register" : {
+        "title": "Register",
+        "width": "100px"
+    },
+    "trade": "Trade",
+    "contact":{
+        "title":"Support",
+        "notice":"Notice",
+        "guide": "Guide",
+        "qna":"QNA",
+        "faq":"FAQ",
+        "terms":"Terms of Use"
+    },
+    "navbaraccount": {
+        "login": "Login",
+        "createaccount": "Register",
+        "logged": {
+            "trade": "Trade",
+            "qna": "QNA",
+            "account": "Account",
+            "balance": "Balance",
+            "logout": "Logout"
+        }
+    },
+    "createbinance": {
+        "register": "Don't have a Binance account yet?",
+        "benefit": "Create an account with commission discounts"
+    },
+    "notices": {
+        "notice": "Notice",
+        "guide": "Guide",
+        "qna": "QNA",
+        "terms": "Terms of Use",
+        "no": "No",
+        "subject": "Subject",
+        "date": "Date",
+        "content": "Content",
+        "email": "Email",
+        "submit": "Submit"
+    },
+    "account": {
+        "title": "Account",
+        "email": "Email",
+        "pw": "Password",
+        "pwchange": "Change Password",
+        "nickname": "NickName",
+        "apikey": "API key",
+        "secret": "Secret key",
+        "apichange": "Change API key & Secret key",
+        "membership": "Membership",
+        "subscribe": "become a member",
+        "extends": "Extends Membership",
+        "membershiphistory": "Membership History",
+        "date": "Date",
+        "billing": "Billing",
+        "action": "Action",
+        "expired": "Expired",
+        "mypage": "My page"
+    },
+    "passwordch":{
+        "title":"Change Password",
+        "cupw":"Current Password",
+        "newpw":"New Password",
+        "newpwcheck":"Confirm new password",
+        "check":"Confirm",
+        "notenter":"Please enter a password.",
+        "invalid":"The password is incorrect.",
+        "ifvalid":"Password must be at least 8 characters with 1 letter, 1 number and 1 special character.",
+        "newnot":"Please enter a new password.",
+        "checknew":"Please check password again.",
+        "changepw":"password has been changed."
+    },
+    "apich":{
+        "title":"Change API KEY",
+        "sub":"Register API key",
+        "check":"Confirm",
+        "invalid":"This API cannot be used.",
+        "valid":"This API can be registered.",
+        "newok":"New API registration completed",
+        "changeok":"API Change Completed",
+        "nodata":"Please enter API Key & Secret Key",
+        "canceltrial":"If you change API Key among trials, the trials will be canceled. Do you still want to change it?"
+    },
+    "balance": {
+        "title": "Balance",
+        "marginbalance": "Margin Balance",
+        "walletbalance": "Wallet Balance",
+        "availablebalance": "Available Balance",
+        "unrealizedpnl": "Unrealized PNL",
+        "date": "Date",
+        "fromwallet": "From future wallet",
+        "towallet": "To future wallet",
+        "dwhistory": {
+            "title": "Transfer History",
+            "transfer": "Transfer",
+            "totaldeposit": "Total Deposit",
+            "totalwithdraw": "Total Withdraw",
+            "deposit": "Deposit",
+            "withdraw": "Withdraw",
+            "net": "Net Transfer Amount",
+            "anet": "Cumulative Net Transfer Amount"
+        },
+        "pnlhistory": {
+            "title": "PNL History",
+            "totalprofit": "Total Profit",
+            "totalloss": "Total Loss",
+            "netpnl": "Net PNL",
+            "realizedpnl": "Realized PNL",
+            "accumulatedpnl": "Cumulative Realized PNL",
+            "contract": "Contract"
+        }
+    },
+    "chart": "Chart",
+    "orderbook": {
+        "title": "Orderbook",
+        "option": "Option",
+        "group":"Grouping",
+        "columns":"Columns",
+        "single": "Single",
+        "dual": "Dual",
+        "price": "Price",
+        "ordermode":"Orderbook trade"
+    },
+    "recenttrades": "Recents",
+    "liquidation": "Liq Trades",
+    "order": {
+        "title": "Order",
+        "sub":"Place Order",
+        "marginmode": {
+            "title": "Margin Mode",
+            "cross": "Cross",
+            "isolated": "Isolated",
+            "confirm": "Confirm",
+            "description_c": "Cross Margin Mode: Share your margin balance across all open positions to avoid liquidation. In the event of liquidation you risk losing your full margin balance along with any remaining open positions.",
+            "description_i": "Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode."
+        },
+        "leverage": {
+            "title": "Adjust Leverage",
+            "maximumtext": "Maximum position at current leverage:",
+            "confirm": "Confirm"
+        },
+        "limit": {
+            "title": "Limit",
+            "postonly": "Post-Only",
+            "reduceonly": "Reduce-Only"
+        },
+        "stop": {
+            "title": "Stop",
+            "reduceonly": "Reduce-Only"
+        },
+        "reservation": {
+            "title": "Reserve",
+            "time": "Time"
+        },
+        "buy": "Buy/Long",
+        "sell": "Sell/Short",
+        "cost": "Cost"
+    },
+    "wallet": {
+        "title": "Asset",
+        "marginbalance": "Margin Balance",
+        "walletbalance": "Wallet Balance",
+        "unrealizedpnl": "Unrealized PNL",
+        "availablebalance": "Available Balance",
+        "amount": "Total",
+        "available": "Available",
+        "crossmarginratio": "Cross Margin Ratio",
+        "leverage": "x leverage"
+    },
+    "alarm": {
+        "title": "Alarm",
+        "symbol": "Symbol",
+        "action": "Action",
+        "reachprice": {
+            "title": "Reach Price",
+            "price": "Price",
+            "markprice": "Mark Price",
+            "option": {
+                "title": "Option",
+                "once": "Once",
+                "everytime": "Every"
+            }
+        },
+        "reachvolume": {
+            "title": "Reach Volume",
+            "volume": "Volume",
+            "timebasis": "Time Basis",
+            "volumebasis": {
+                "title": "Volume Basis",
+                "all": "All",
+                "buy": "Buy",
+                "sell": "Sell"
+            }
+        },
+        "soaringplunged": {
+            "title": "Soaring, Plunged",
+            "pricechange": "Price Change",
+            "time": "Time(s)",
+            "option": {
+                "title": "Option",
+                "all": "All",
+                "soaring": "Soaring",
+                "plunged": "Plunged"
+            }
+        }
+    },
+    "positions": {
+        "symbol": "Symbol",
+        "position": {
+            "title": "Position",
+            "size": "Size",
+            "entryprice": "Entry Price",
+            "markprice": "Mark Price",
+            "liqprice": "Liq.Price",
+            "pnl": "PNL(ROE %)",
+            "closepostion": "Close Positions",
+            "marginratio": "Margin Ratio",
+            "margin": "Margin",
+            "cancel": "Cancel",
+            "cancelall": "Cancel All"
+        },
+        "activeorder": {
+            "title": "Active Orders", 
+            "sub":"Active",
+            "qty": "Qty",
+            "orderprice": "Order Price",
+            "filled": "Filled",
+            "remaining": "Remaining",
+            "reduceonly": "Reduce-Only",
+            "cancelall": "Cancel All",
+            "kys:":"Yes",
+            "no":"No",
+            "cancel":"Cancel"
+        },
+        "stops": {
+            "title": "Stop",
+            "qty": "Qty",
+            "orderprice": "Order Price",
+            "triggerbasis": "Trigger Basis",
+            "triggerprice": "Trigger Price",
+            "reduceonly": "Reduce-Only",
+            "cancelall": "Cancel All",
+            "nono:":" Yes",
+            "no":"No",
+            "cancel":"Cancel"
+        },
+        "stopreservation": {
+            "title": "Stop Reservation",
+            "sub":"Reservation",
+            "type": "Type",
+            "size": "Size",
+            "reachprice": "Reach Price",
+            "triggerprice": "Trigger Price",
+            "trigercondition":"Trigger Conditions",
+            "stopprice":"Stop Price",
+            "orderprice": "Order Price",
+            "cancel": "Cancel",
+            "cancelall": "Cancel All"
+        }
+    },
+    "notvalid":{
+        "or":"or",
+        "totrade":"to trade",
+        "cantnottrade":"The API is not tradeable.",
+        "validapi": "Please register the correct API",
+        "modifyapi":"Change API",
+        "registerapi":"Register API key",
+        "joinmembership":"Join Membership"
+    },
+    "searchSymbol":{
+        "last":"Last Price",
+        "search":"Search"
+    },
+    "toast":{
+        "LIMIT":"Limit ",
+        "MARKET":"Market ",
+        "STOP":"Stop ",
+        "TAKE_PROFIT":"Take Profit ",
+        "BUY":"Long Order ",
+        "SELL":"Sell Order ",
+        "PARTIALLY_FILLED":"Partially Filled ",
+        "FILLED":"Filled ",
+        "CANCELED":"Canceled ",
+        "SUCCESS":"Order Submiited ",
+        "FAILURE":"Order Rejected ",
+        "KLINE":"Chart Close Price ",
+        "RESERVATION":"Stop Order Reservation",
+        "modechange":"Margin Mode Successfully Adjusted",
+        "levechange":"Leverage adjustment successful",
+        "mailsuccess":"Email code sent successfully",
+        "mailtoomany":"Too many requests. Please try again later.",
+        "mailfailed":"Please check that the mail verification code has been sent",
+        "unkwonError":"An unknown error has occurred.",
+        "RESERVEMAX":"The number of available reservations has been exceeded.",
+        "RESERVENOSYM": "This Symbol cannot be ordered."
+    }
+}

@@ -1,0 +1,15 @@
+.TVChartContainer {
+	height: 100%;
+}
+
+.chart-page{
+	background-color: inherit !important;
+}
+
+.chart-controls-bar{
+	height: 100px;
+}
+
+.chart-page .chart-container{
+	border: none;
+}

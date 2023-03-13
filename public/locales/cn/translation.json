@@ -1,0 +1,409 @@
+{
+    "type": "cn",
+    "main":{
+        "title":"币安期货API交易工具",
+        "sub":"便利而多元化的贸易环境下的贸易",
+        "gotrade":"查看交易",
+        "login":"登入",
+        "more":"更多",
+        "info":{
+            "firstT":"简单委托订单交易",
+            "firstS":"三种方便的类型",
+            "firstC":"支持双，单模",
+            "firstCC":"也可在平板电脑上使用。",
+            "secondT":"不再等待止损",
+            "secondS":"图表收盘价订单，止损预留支持",
+            "secondC":"提供停止损失订单预订",
+            "secondCC":"提供小时图收盘价定单",
+            "thirdT": "易于查看的传输历史记录，PNL历史记录用户界面",
+            "thirdS": "使资产管理更加便捷",
+            "thirdC":"轻松，准确地检查转账历史和PNL历史",
+            "thirdCC":"可按日期和合同检查"
+        }
+    },
+    "forgetpass":{
+        "title":"重置登录密码",
+        "email":"电邮",
+        "temporary":"签发的临时密码",
+        "temcom":"已向该电子邮件发送了一个临时密码。 登录后请更改。"
+    },
+    "qnaemail":{
+        "success":"请求已完成",
+        "sucon":"请求已成功接收。 答案将稍后通过电子邮件发送给您。",
+        "fail": "请求失败",
+        "failcon":"失败了 请稍后再试。"
+    },
+    "apicheck":{
+        "available":"此api可以注册。",
+        "not": "无法使用该API"
+    },
+    
+    "customlayout":{
+        "title":"选择布局",
+        "chart":"图表",
+        "orderbook":"委托订单",
+        "recents":"最新成交",
+        "positionOrders":"仓位/当前委托",
+        "reset":"重置为默认布局"
+    },
+    "login": {
+        "title":"登入",
+        "register": "创建帐号",
+        "forget":"忘记了密码？",
+        "invaildemail":"请输入正确的电子邮件地址",
+        "notemail":"请输入您的电子邮件地址",
+        "notpassword":"请输入您的密码",
+        "invalidpassword":"电邮帐户尚未登记,或密码不正确",
+        "notyetbinance":"还不是币安会员？",
+        "registerbinance":"注册现有API时会提供7天的会员资格试用",
+        "trialbinance":"注册并获得14天的会员资格试用"
+    },
+    "accountregister":{
+        "title":"创建一个账户",
+        "subtitle":"立即注册并获得14天的试用期。",
+        "email":"电邮",
+        "password":"密码",
+        "nickname":"尼克名",
+        "createaccount":"创建帐户",
+        "alreadyregistered":"已经登记了?",
+        "login":"登入",
+        "check":"检查一下",
+        "apicheck":"API 检查一下",
+        "invalidapikey":"请输入正确的API Key",
+        "invalidsecretkey":"请输入正确的 Secret Key",
+        "availableapi":"可用的API.",
+        "invalidemail":"请输入有效的电邮。",
+        "notemail":"请输入您的电子邮件地址。",
+        "existemail":"电邮地址已经存在。",
+        "existnick":"这个绰号目前正在使用中。",
+        "availablenick":"有用的尼克名",
+        "checknick":"请检查您的尼克名",
+        "invalidpassword":"密码必须至少8个字符，1个字母，1个数字和一个特殊字符。",
+        "notpassword":"请输入您的密码.",
+        "notenoughnick":"请输入至少3个字符",
+        "checkterm":"我已阅读并同意使用条款",
+        "bitterms":"Bitcolabi 条款",
+        "termsagree":"我同意Bitcolabi服务条款。",
+        "apialready":"这个API已经试用过了。 你不能接受审判 你想加注册?",
+        "cantapi":"此API不符合试用版的条件。 即使以后更改，也不会收到。 你想反正注册？"
+    },
+    "verficateaccount":{
+        "title":"帐户验证",
+        "subtitle":"输入发送到电子邮件地址的验证码 ",
+        "invalid":"这不是一个有效的验证码或已过期。请再试一遍。",
+        "validtime":"验证码有效期为10分钟。",
+        "resend":"重发电子邮件",
+        "lefttime":"重发电子邮件 >>"
+    },
+    "setting":{
+        "welcome":"欢迎!",
+        "subtitle":"现在注册API并尝试免费会员",
+        "freemember":"注册币安以获得免费会员资格",
+        "api":"注册API",
+        "trading":"贸易"
+    },
+    "buttontoast":{
+        "noneapi":"没有注册的API。",
+        "apiinvalid":"您不能使用此API。",
+        "cannottrade":"这是不可交易的API。在Binance网站上对其进行编辑后，请使用它。",
+        "notmember":"请加入会员。",
+        "guest":"请登录。"
+    },
+    "lang": "中文",
+    "register": {
+        "title": "注册",
+        "width" : "100px"
+    },
+    "trade": "贸易",
+    "contact":{
+        "title":"联系",
+        "notice":"公告事项",
+        "guide": "指南",
+        "qna":"QNA",
+        "faq":"FAQ",
+        "terms":"使用条件"
+    },
+    "navbaraccount": {
+        "login": "登入",
+        "createaccount": "创建帐户",
+        "logged": {
+            "trade": "贸易",
+            "qna": "问与答",
+            "account": "帐户",
+            "balance": "余额",
+            "logout": "退出"
+        }
+    },
+    "createbinance": {
+        "register": "还没有Binance帐户？",
+        "benefit": "创建一个有佣金折扣的帐户。"
+    },
+    "notices": {
+        "notice": "公告事项",
+        "guide": "指南",
+        "qna": "问与答",
+        "terms": "使用条件",
+        "no": "号",
+        "subject": "题目",
+        "date": "日期",
+        "content": "内容",
+        "email": "电邮",
+        "submit": "提交"
+    },
+    "account": {
+        "title": "账户",
+        "email": "电邮",
+        "pw": "密码",
+        "pwchange": "密码更改",
+        "nickname": "暱称",
+        "apikey": "API Key",
+        "secret": "Secret Key",
+        "apichange": "API Key & Secret Key 更改",
+        "membership": "会员权",
+        "subscribe": "订阅会员权",
+        "extends": "延长会员权",
+        "membershiphistory": "会员权历史记录",
+        "date": "日期",
+        "billing": "账单",
+        "action": "行动",
+        "expired": "已过期",
+        "mypage": "我的页面"
+    },
+    "passwordch":{
+        "title":"更改密码",
+        "cupw":"当前密码",
+        "newpw":"新密码",
+        "newpwcheck":"确认新密码",
+        "check":"确认",
+        "notenter":"请输入密码。",
+        "invalid":"密码错误。",
+        "ifvalid":"密码必须至少8个字符，1个字母，1个数字和一个特殊字符。",
+        "newnot":"请输入新密码。",
+        "checknew":"请再次检查密码。",
+        "changepw":"密码已被更改。"
+    },
+    "apich":{
+        "title":"变更API KEY",
+        "sub":"注册API KEY",
+        "check":"确认",
+        "invalid":"无法使用该API。",
+        "valid":"可以注册的API。",
+        "newok":"新的API注册完成",
+        "changeok":"API更改已完成",
+        "nodata":"请输入API密钥和秘密密钥",
+        "canceltrial":"如果在试验之间更改API密钥，则试验将被取消。 您仍然要更改吗？"
+    },
+    "balance": {
+        "title": "余额",
+        "marginbalance": "保证金余额",
+        "walletbalance": "钱包余额",
+        "availablebalance": "可用余额",
+        "unrealizedpnl": "未实现盈亏",
+        "date": "日期",
+        "fromwallet": "从合约钱包",
+        "towallet": "至合约钱包",
+        "dwhistory": {
+            "title": "存款/提现",
+            "transfer": "划转",
+            "totaldeposit": "总存款",
+            "totalwithdraw": "总提现",
+            "deposit": "存款",
+            "withdraw": "提现",
+            "net": "纯划转数量",
+            "anet": "累积的纯划转数量"
+        },
+        "pnlhistory": {
+            "title": "盈亏历史记录",
+            "totalprofit": "总利润",
+            "totalloss": "总损失",
+            "netpnl": "纯盈亏",
+            "realizedpnl": "已实现盈亏",
+            "accumulatedpnl": "累积实现盈亏",
+            "contract": "合同"
+        }
+    },
+    "chart": "图表",
+    "orderbook": {
+        "title": "委托订单",
+        "option": "选项",
+        "group":"合并",
+        "columns":"列",
+        "single": "单列",
+        "dual": "双列",
+        "price": "价格",
+        "ordermode":"委托订单贸易模式"
+    },
+    "recenttrades": "最新成交",
+    "liquidation": "强平",
+    "order": {
+        "title": "提交委托",
+        "sub":"下订单",
+        "marginmode": {
+            "title": "保证金模式",
+            "cross": "全仓",
+            "isolated": "逐仓",
+            "confirm": "确定",
+            "description_c": "全仓保证金模式: 所有仓位共用合约账户中的保证金来避免仓位被强平。在强平事件中，交易者可能会损失所有的保证金和仓位。",
+            "description_i": "逐仓保证金模式: 一定数量保证金被分配到仓位上。如果仓位保证金亏损到低于维持保证金的水平，仓位将被强平。在逐仓模式下，您可以为这个仓位添加和减少保证金。"
+        },
+        "leverage": {
+            "title": "调整杠杆",
+            "maximumtext": "当前杠杆倍数最高可持有头寸:",
+            "confirm": "确定"
+        },
+        "limit": {
+            "title": "限价",
+            "postonly": "被动委托",
+            "reduceonly": "只减仓"
+        },
+        "stop": {
+            "title": "市价",
+            "reduceonly": "只减仓"
+        },
+        "reservation": {
+            "title": "预约",
+            "time": "时间"
+        },
+        "buy": "买入/做多",
+        "sell": "卖出/做空",
+        "cost": "保证金"
+    },
+    "wallet": {
+        "title": "钱包",
+        "marginbalance": "保证金余额",
+        "walletbalance": "钱包余额",
+        "unrealizedpnl": "未实现盈亏",
+        "availablebalance": "可用余额",
+        "amount": "总",
+        "available": "可用",
+        "crossmarginratio": "交叉保证金比率",
+        "leverage": "x 调整杠杆"
+    },
+    "alarm": {
+        "title": "通知",
+        "symbol": "合约",
+        "action": "行动",
+        "reachprice": {
+            "title": "达到价格",
+            "price": "价格",
+            "markprice": "标记价格",
+            "option": {
+                "title": "选项",
+                "once": "一旦",
+                "everytime": "每次"
+            }
+        },
+        "reachvolume": {
+            "title": "达到成交量",
+            "volume": "成交量",
+            "timebasis": "时间基础",
+            "volumebasis": {
+                "title": "成交量基础",
+                "all": "全部",
+                "buy": "买入",
+                "sell": "卖出"
+            }
+        },
+        "soaringplunged": {
+            "title": "飙升, 暴跌",
+            "pricechange": "价格波动",
+            "time": "时间(秒)",
+            "option": {
+                "title": "选项",
+                "all": "全部",
+                "soaring": "飙升",
+                "plunged": "暴跌"
+            }
+        }      
+    },
+    "positions": {
+        "symbol": "合约",
+        "position": {
+            "title": "仓位",
+            "size": "数量",
+            "entryprice": "开仓价格",
+            "markprice": "标记价格",
+            "liqprice": "强平价格",
+            "pnl": "PNL(ROE %)",
+            "closepostion": "關仓位",
+            "marginratio": "保证金比率",
+            "margin": "保证金",
+            "cancel": "取消",
+            "cancelall": "全部取消"
+        },
+        "activeorder": {
+            "title": "活动委托",
+            "sub":"活动", 
+            "qty": "数量",
+            "orderprice": "价格",
+            "filled": "委托价格",
+            "remaining": "剩余",
+            "reduceonly": "只减仓",
+            "cancelall": "全部取消",
+            "kys:":"是",
+            "no":"没有",
+            "cancel":"取消"
+        },
+        "stops": {
+            "title": "市价",
+            "qty": "数量",
+            "orderprice": "价格",
+            "triggerbasis": "触发基础",
+            "triggerprice": "触发价格",
+            "reduceonly": "只减仓",
+            "cancelall": "全部取消",
+            "nono:":" 是",
+            "no":"没有",
+            "cancel":"取消"
+        },
+        "stopreservation": {
+            "title": "市价預約",
+            "sub": "預約",
+            "type": "类型",
+            "size": "数量",
+            "reachprice": "达到价格",
+            "triggerprice": "触发价格",
+            "orderprice": "价格",
+            "trigercondition":"触发条件",
+            "stopprice":"触发价格",
+            "cancel": "取消",
+            "cancelall": "全部取消"
+        }
+    },
+    "notvalid":{
+        "or":"或",
+        "totrade":"后可用",
+        "cantnottrade":"该API不可交易.",
+        "validapi": "请注册正确的API",
+        "modifyapi":"变更API",
+        "registerapi":"注册API密钥",
+        "joinmembership":"加入会员"
+    },
+    "searchSymbol":{
+        "last":"最新价格",
+        "search":"查询"
+    },
+    "toast":{
+        "LIMIT":"限价 ",
+        "MARKET":"市价 ",
+        "STOP":"止损 ",
+        "TAKE_PROFIT":"止盈 ",
+        "BUY":"买单 ",
+        "SELL":"卖单 ",
+        "PARTIALLY_FILLED":"部分填写 ",
+        "FILLED":"填充 ",
+        "CANCELED":"已取消 ",
+        "SUCCESS":"下单成功 ",
+        "FAILURE":"下单失败 ",
+        "KLINE":"图表收盘价 ",
+        "RESERVATION":"止损订单预订",
+        "modechange":"保证金模式调整成功",
+        "levechange":"杠杆调整成功",
+        "mailsuccess":"电子邮件代码发送成功",
+        "mailtoomany":"Too many requests. Please try again later.",
+        "mailfailed":"Please check that the mail verification code has been sent",
+        "unkwonError":"An unknown error has occurred.",
+        "RESERVEMAX":"可用预订数已超过。",
+        "RESERVENOSYM": "该符号无法订购。"
+    }
+}

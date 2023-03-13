@@ -1,0 +1,407 @@
+{
+    "type": "ja",
+    "main":{
+        "title":"Binance FuturesAPI取引ツール",
+        "sub":"シンプルで多様な取引環境での取引",
+        "gotrade":"取引見る",
+        "login":"ログイン",
+        "more":"もっと",
+        "info":{
+            "firstT":"シンプル オーダーブック トレード",
+            "firstS":"便利な3種類",
+            "firstC":"デュアル、シングルモード、合計3つのタイプをサポート",
+            "firstCC":"タブレットでもご利用いただけます。",
+            "secondT":"もうストップロス注文を待つのをやめなさい",
+            "secondS":"チャート終値注文、ストップロス予約サポート",
+            "secondC":"ストップロス注文予約を提供します",
+            "secondCC":"時間ごとのチャートの終値注文機能を提供.",
+            "thirdT": "見やすい転送履歴、PNL履歴UI",
+            "thirdS": "資産管理をより便利にする",
+            "thirdC":"転送履歴とPNL履歴を簡単かつ正確に確認できます。",
+            "thirdCC":"日付と契約で確認できます。"
+        }
+    },
+    "forgetpass":{
+        "title":"ログインパスワードをリセット",
+        "email":"Eメール",
+        "temporary":"一時的なパスワードが発行され",
+        "temcom":"そのメールに一時的なパスワードが発行されました。 ログイン後に変更してください。"
+    },
+    "qnaemail":{
+        "success":"リクエスト完了",
+        "sucon":"リクエストは正常に受信されました。 答えは、後に電子メールで送信されます。",
+        "fail": "リクエストに失敗しました",
+        "failcon":"不明なエラーで失敗しました。 後でもう一度やり直してください。"
+    },
+    "apicheck":{
+        "available":"このAPIは登録できます。",
+        "not": "APIは使用できません。"
+    },
+    "customlayout":{
+        "title":"レイアウトをカスタマイズ",
+        "chart":"チャート",
+        "orderbook":"オーダーブック",
+        "recents":"トレード",
+        "positionOrders":"ポジション/オープンオーダー",
+        "reset":"デフォルトのレイアウトに戻る"
+    },
+    "login": {
+        "title":"ログイン",
+        "register": "アカウントを作成",
+        "forget":"パスワードをお忘れの場合",
+        "invaildemail":"有効なメールアドレスを入力してください",
+        "notemail":"メールアドレスを入力してください",
+        "notpassword":"パスワードを入力してください",
+        "invalidpassword":"E-メールアカウントが登録されていないか、パスワードが間違っています",
+        "notyetbinance":"まだ Binance メンバーではありませんか？",
+        "registerbinance":"既存のAPIを登録するときに、会員裁判の7日間が提供されています",
+        "trialbinance":"登録し、14日間のメンバーシップのトライアルを取得"
+    },
+    "accountregister":{
+        "title":"アカウントを作成する",
+        "subtitle":"今すぐ登録して、14日間の試用版を入手してください",
+        "email":"Eメール",
+        "password":"パスワード",
+        "nickname":"ニックネーム",
+        "createaccount":"アカウントの作成",
+        "alreadyregistered":"すでに登録？",
+        "login":"ログイン",
+        "check":"確認",
+        "apicheck":"API 確認",
+        "invalidapikey":"正しいAPI Keyを入力してください",
+        "invalidsecretkey":"正しいSecret Keyを入力してください",
+        "availableapi":"利用可能なAPI。",
+        "invalidemail":"有効なEメールアドレスを入力してください。",
+        "notemail":"Eメールアドレスを入力してください。",
+        "existemail":"Eメールアドレスは既に存在します。",
+        "existnick":"ニックネームは現在使用中です。",
+        "availablenick":"使用可能なニックネーム。",
+        "checknick":"ニックネームを確認してください",
+        "invalidpassword":"パスワードは8文字以上で、1文字、1数字、1特殊文字である必要があります。",
+        "notpassword":"パスワードを入力してください。",
+        "notenoughnick":"3文字以上入力してください",
+        "checkterm":"利用規約を読み、同意します",
+        "bitterms":"Bitcolabi 条項",
+        "termsagree":"Bitcolabiサービス規約に同意します。",
+        "apialready":"このAPIはすでに試用されています。 トライアルは受けられません。 とにかく参加しませんか？",
+        "cantapi":"このAPIは試用版を受け取る資格がありません。 後で変更しても受け取れません。 とにかく登録しますか？"
+    },
+    "verficateaccount":{
+        "title":"アカウント 検証",
+        "subtitle":"Eメールアドレスに送信された認証コードを入力します。",
+        "invalid":"有効な確認コードではないか、有効期限が切れています。もう一度やり直してください。",
+        "validtime":"確認コードは10分間有効です。",
+        "resend":"Eメールの再送信",
+        "lefttime":"Eメールの再送信 >>"
+    },
+    "setting":{
+        "welcome":"ようこそ!",
+        "subtitle":"今すぐAPIを登録して、無料でメンバーシップをお試しください",
+        "freemember":"無料メンバーシップのためのBinance登録",
+        "api":"APIを登録する",
+        "trading":"取引"
+    },
+    "buttontoast":{
+        "noneapi":"登録済みのAPIはありません。",
+        "apiinvalid":"このAPIは使用できません。",
+        "cannottrade":"これは取引不可能なAPIです。 Binanceウェブサイトで編集してご利用ください。",
+        "notmember":"会員登録をしてください。",
+        "guest":"ログインしてください。"
+    },
+    "lang": "日本語",
+    "register": {
+        "title": "登録",
+        "width": "100px"
+    },
+    "trade": "取引",
+    "contact":{
+        "title":"お問い合わせ",
+        "notice":"Notice",
+        "guide": "Guide",
+        "qna":"QNA",
+        "faq":"FAQ",
+        "terms":"Terms of Use"
+    },
+    "navbaraccount": {
+        "login": "ログイン",
+        "createaccount": "アカウントの作成",
+        "logged": {
+            "trade": "取引",
+            "qna": "QNA",
+            "account": "アカウント",
+            "balance": "残高",
+            "logout": "ログアウト"
+        }
+    },
+    "createbinance": {
+        "register": "Binanceアカウントを持っていませんか？",
+        "benefit": "手数料割引付きのアカウントを作成する"
+    },
+    "notices": {
+        "notice": "お知らせ",
+        "guide": "案内",
+        "qna": "QNA",
+        "terms": "利用規約",
+        "no": "番号",
+        "subject": "タイトル",
+        "date": "日付",
+        "content": "内用",
+        "email": "Eメール",
+        "submit": "提出"
+    },
+    "account": {
+        "title": "アカウント",
+        "email": "Eメール",
+        "pw": "パスワード",
+        "pwchange": "パスワード修正",
+        "nickname": "ニックネーム",
+        "apikey": "API key",
+        "secret": "Secret key",
+        "apichange": "API key & Secret key 修正",
+        "membership": "メンバーシップ",
+        "subscribe": "Subscribe to メンバーシップ",
+        "extends": "Extends メンバーシップ",
+        "membershiphistory": "メンバーシップ History",
+        "date": "日付",
+        "billing": "支払い",
+        "action": "アクション",
+        "expired": "已过期",
+        "mypage": "私のページ"
+    },
+    "passwordch":{
+        "title":"パスワードを変更する",
+        "cupw":"現在のパスワード",
+        "newpw":"新しいパスワード",
+        "newpwcheck":"新しいパスワードを確認",
+        "check":"確認",
+        "notenter":"パスワードを入力してください。",
+        "invalid":"パスワードが正しくありません。",
+        "ifvalid":"パスワードは8文字以上で、1文字、1数字、1特殊文字である必要があります。",
+        "newnot":"新しいパスワードを入力してください。",
+        "checknew":"パスワードをもう一度確認してください。",
+        "changepw":"パスワードが変更されました。"
+    },
+    "apich":{
+        "title":"API Key を変更する",
+        "sub":"API Keyの登録",
+        "check":"確認",
+        "invalid":"このAPIは使用できません。",
+        "valid":"このAPIは登録できます。",
+        "newok":"新しいAPI登録が完了しました",
+        "changeok":"APIの変更が完了しました",
+        "nodata":"APIキーとシークレットキーを入力してください",
+        "canceltrial":"トライアル中に API Key を変更すると、トライアルはキャンセルされます。 それでも変更しますか？"
+    },
+    "balance": {
+        "title": "残高",
+        "marginbalance":"証拠金残高",
+        "walletbalnce": "財布 残高",
+        "availablebalance": "利用可能残高",
+        "unrealizedpnl": "未実現 損益",
+        "date": "日付",
+        "fromwallet": "From future wallet",
+        "towallet": "To future wallet",
+        "dwhistory": {
+            "title": "転送履歴",
+            "transfer": "転送",
+            "totaldeposit": "合計 入金",
+            "totalwithdraw": "合計 出金",
+            "deposit": "入金",
+            "withdraw": "出金",
+            "net": "純譲渡額",
+            "anet": "純移転累計額"
+        },
+        "pnlhistory": {
+            "title": "利益と損失の歴史",
+            "totalprofit": "利益総額",
+            "totalloss": "総損失",
+            "netpnl": "純損益",
+            "realizedpnl": "実現損益",
+            "accumulatedpnl": "累積的な損益",
+            "contract": "契約"
+        }
+    },
+    "chart": "チャート",
+    "orderbook": {
+        "title": "オーダーブック",
+        "option": "オプション",
+        "group":"グループ化",
+        "columns":"コラム",
+        "single": "シングル",
+        "dual": "デュアル",
+        "price": "Price",
+        "ordermode":"オーダーブック トレード"
+    },
+    "recenttrades": "取引",
+    "liquidation": "清算",
+    "order": {
+        "title": "発注",
+        "sub":"場所の順序",
+        "marginmode": {
+            "title": "マージンモード",
+            "cross": "クロス",
+            "isolated": "分離マージン",
+            "confirm": "確認",
+            "description_c": "クロスマージンモード: 清算を避けるために、全オープンポジションの証拠金バランスを共有します。清算が起きた場合、残りのオープンポジションとともに全ての証拠金バランスを失うリスクがあります。",
+            "description_i": "分離証拠金モード: それぞれに割り当てられる証拠金の額を制限することで個別のポジションのリスクを管理しましょう。あるポジションの証拠金率が100％に達したら、そのポジションは清算されます。このモードで、証拠金の追加、削除を行うことが可能です。"
+        },
+        "leverage": {
+            "title": "レバレッジを調整する",
+            "maximumtext": "現在のレバレッジでの最大位置:",
+            "confirm": "確認"
+        },
+        "limit": {
+            "title": "指値",
+            "postonly": "Post-Only",
+            "reduceonly": "減少限定"
+        },
+        "stop": {
+            "title": "ストップ",
+            "reduceonly": "減少限定"
+        },
+        "reservation": {
+            "title": "予約",
+            "time": "時間"
+        },
+        "buy": "買い/ロング",
+        "sell": "売り/ショート",
+        "cost": "コスト"
+    },
+    "wallet": {
+        "title": "財布",
+        "marginbalance": "証拠金残高",
+        "walletbalance": "財布残高",
+        "unrealizedpnl": "未実現PNL",
+        "availablebalance": "利用可能残高",
+        "amount": "合計",
+        "available": "利用可能",
+        "crossmarginratio": "クロスマージン比",
+        "leverage": "x レバレッジ"
+    },
+    "alarm": {
+        "title": "通知",
+        "symbol": "シンボル",
+        "action": "アクション",
+        "reachprice": {
+            "title": "達する価格",
+            "price": "価格",
+            "markprice": "マーク価格",
+            "option": {
+                "title": "オプション",
+                "once": "かつて",
+                "everytime": "毎回"
+            }
+        },
+        "reachvolume": {
+            "title": "出来高 達する",
+            "volume": "出来高 ",
+            "timebasis": "時間基礎",
+            "volumebasis": {
+                "title": "出来高 基礎",
+                "all": "すべて",
+                "buy": "買い",
+                "sell": "売り"
+            }
+        },
+        "soaringplunged": {
+            "title": "急騰, 急落",
+            "pricechange": "価格変動",
+            "time": "時間(秒)",
+            "option": {
+                "title": "オプション",
+                "all": "すべて",
+                "soaring": "急騰",
+                "plunged": "急落"
+            }
+        }      
+    },
+    "positions": {
+        "symbol": "記号",
+        "position": {
+            "title": "ンポジション",
+            "size": "サイズ",
+            "entryprice": "参入価格",
+            "markprice": "マーク価格",
+            "liqprice": "清算価格",
+            "pnl": "PNL(ROE %)",
+            "closepostion": "ポジションを決済",
+            "marginratio": "マージン率",
+            "margin": "マージン",
+            "cancel": "キャンセル",
+            "cancelall": "すべてキャンセル"
+        },
+        "activeorder": {
+            "title": "アクティブな注文",
+            "sub":"アクティブ", 
+            "qty": "数量",
+            "orderprice": "注文価格",
+            "filled": "約定済み",
+            "remaining": "残数",
+            "reduceonly": "減少限定",
+            "cancelall": "すべてキャンセル",
+            "kys:":"イエス",
+            "no":"いいえ",
+            "cancel":"キャンセル"
+        },
+        "stops": {
+            "title": "ストップ",
+            "qty": "数量",
+            "orderprice": "注文価格",
+            "triggerbasis": "引き金 基礎",
+            "triggerprice": "引き金 価格",
+            "reduceonly":"減少限定",
+            "cancelall": "すべてキャンセル",
+            "nono:":" イエス",
+            "no":"いいえ",
+            "cancel":"キャンセル"
+        },
+        "stopreservation": {
+            "title": "ストップ 予約",
+            "sub":"予約",
+            "type": "タイプ",
+            "size": "サイズ",
+            "reachprice": "達する価格",
+            "triggerprice": "引き金 価格",
+            "orderprice": "注文価格",
+            "trigercondition":"注文条件",
+            "stopprice":"ストップ価格",
+            "cancel": "キャンセル",
+            "cancelall": "すべてキャンセル"
+        }
+    },
+    "notvalid":{
+        "or":"または",
+        "totrade": "後に利用できる",
+        "cantnottrade":"このAPIは取引できません",
+        "validapi": "请注册正确的API",
+        "modifyapi":"APIを変更",
+        "registerapi":"APIキーを登録",
+        "joinmembership":"メンバーシップへの参加"
+    },
+    "searchSymbol":{
+        "last":"終値",
+        "search":"検索"
+    },
+    "toast":{
+        "LIMIT":"指値  ",
+        "MARKET":"マーケット ",
+        "STOP":"ストップ ",
+        "TAKE_PROFIT":"テイクプロフィット ",
+        "BUY":"買い注文 ",
+        "SELL":"売り注文 ",
+        "PARTIALLY_FILLED":"部分的に完了 ",
+        "FILLED":"完了 ",
+        "CANCELED":"キャンセル ",
+        "SUCCESS":"注文済み",
+        "FAILURE":"拒否された注文 ",
+        "KLINE":"チャート終値 ",
+        "RESERVATION":"ストップオーダー予約",
+        "modechange":"マージンモードが調整されました",
+        "levechange":"レバレッジが調整されました",
+        "mailtoomany":"Too many requests. Please try again later.",
+        "mailfailed":"Please check that the mail verification code has been sent",
+        "unkwonError":"An unknown error has occurred.",
+        "RESERVEMAX":"利用可能な予約数を超えました。",
+        "RESERVENOSYM": "このシンボルは注文できません。"
+    }
+}

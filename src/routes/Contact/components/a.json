@@ -1,0 +1,252 @@
+{
+    "en":[
+        {"title":"",
+        "content":[{
+            "title":"",
+            "article":"Bitcolabi('Company') provides a Binance API trading tool that can be used in computers and other devices."
+        }]
+        },
+        {"title":"",
+            "content":[{
+                "title":"",
+                "article":"The Terms of Use ('Terms') applies to users using Bitcolabi services. The ‘Bitcolabi Service’ mentioned in this Agreement means not only transaction order service using Binance API but also API service other than deposit and withdrawal."
+            }]
+        },
+        {"title":"",
+            "content":[{
+                "title":"",
+                "article":"By using or subscribing to the Company's services as a member, you will confirm or agree to these Terms and related operational policies."
+            }]
+        },
+        {"title":"1. Bitcolabi Service",
+            "content":[{
+                "title":"1.1.",
+                "article":"Bitcolabi Services shall be not less than the adult reference age of the relevant laws as defined in the Binance service use area or country."
+            },{
+                "title":"1.2.",
+                "article":"The Company provides an easy and convenient trading environment for Binance API transactions through the Bitcolabi website “https://www.bitcolabi.com”(“Website”). Bitcolabi Service is available through various devices such as PC and mobile phone."
+            },{
+                "title":"1.3.",
+                "article":"API other services are provided only to the registered members of the Binance API Key. The member can easily check the transaction and transmission details through the registered API. At this time, the API key must be set to prevent deposit and withdrawal."
+            },{
+                "title":"1.4.",
+                "article":"API transaction order service is a service that executes an order request only when a member requests an order through an API key registered directly. The API transaction order service is not implemented in any case unless the member requests execution."
+            },{
+                "title":"1.5.",
+                "article":"The Bitcolabi Service can specify service updates through the 'Notices' page of the Website, and members agree to use the updated version."
+            }]
+        },
+        {"title":"2. Membership",
+            "content":[{
+                "title":"2.1.",
+                "article":"Membership is provided only to members who wish to use API transaction order service and have made payments through the payment methods provided."
+            },{
+                "title":"2.2.",
+                "article":"A free subscription(“Free Trials”) period may be provided for the first API key registration after the subscription. Free Trials period is specified when signing up, and it is provided for the purpose of experiencing API transaction order service."
+            },{
+                "title":"2.3.",
+                "article":"Free Trials will be provided at the discretion of the Company, and the Company may limit the qualification requirements or period to prevent abuse of free use. The API key of the Binance account that has already been used is not eligible for Free Trials."
+            },{
+                "title":"2.4.",
+                "article":"The Company can determine the eligibility of free testing by using API when users first register API keys."
+            },{
+                "title":"2.5.",
+                "article":"The end date of  the Free Trials and Membership period can be found on the 'Account' page of the Website. When the period of use expires, the Free Trials or Membership will be restricted."
+            }]
+        },
+        {"title":"3. Billing and Cancellation",
+            "content":[{
+                "title":"3.1.",
+                "article":"To use Bitcolabi Service’s Membership, Membership registration can be made through the payment method provided on the 'Account' page of the Website. The Member will be able to select the Membership type through the payment amount, and the Membership registration will be completed after checking the billing amount. You can check the Membership payment history on the 'Account' page of the Website."
+            },{
+                "title":"3.2.",
+                "article":"The Company is not responsible for any payment errors caused by the wrong address transmission. Other payment errors can be inquired at the “Customer Support” page of the  Website."
+            },{
+                "title":"3.3.",
+                "article":"The Membership will end automatically at the end of its billing period. As such, no action is required from the client side to cancel the Membership. Members can continue to use the Bitcolabi Service through the end of their billing period. The Company does not provide refunds, all payments already made are non-refundable."
+            },{
+                "title":"3.4.",
+                "article":"The member can cancel the account at any time on the ‘Account’ page of the Website, and the Membership is subject to these Terms 3.3."
+            },{
+                "title":"3.5.",
+                "article":"The Company's service fees and membership policy are subject to change. The Company will inform you of any updates via email, including when to apply."
+            }]
+        },
+        {"title":"4. Account Access",
+            "content":[{
+                "title":"",
+                "article":"The member who created the Bitcolabi account and whose Membership is registered has access and control over the Bitcolabi account and is responsible for any activity that occurs through the use of the Bitcolabi account."
+            }]
+        },
+        {"title":"5. Warranties and Limitations on Liability",
+            "content":[{
+                "title":"5.1.",
+                "article":"The Company will endeavor to provide a stable service. However, A service interruption or error may occur without the responsibility of the company. (e.g., In action, disasters, technical flaws that are difficult to resolve, DDoS attacks, abnormal provision of web hosting services, etc). In this regard, the Company is not responsible for any loss or damage arising from using the provided service."
+            },{
+                "title":"5.2.",
+                "article":"Bitcolabi Service is affected by the API trading system provided by Binance. The Company is not responsible for any problems and solutions resulting from the system failures."
+            },{
+                "title":"5.3.",
+                "article":"The Company can refuse to provide the service or prohibit the use of the service according to the laws of the country and region to which the user belongs in accordance with Binance's service use regulations. Users shall not legally use or use this service in accordance with the laws and regulations of the country and region to which the user belongs. The Company may suspend the service or disqualify Membership at any time if it is confirmed that the user is using this service illegally."
+            },{
+                "title":"5.4.",
+                "article":"The member shall be responsible for the security of the email address, password, API key ('Member Information') registered with the company in connection with Bitcolabi Service, and the Company shall not be liable for damages caused by the leakage of member information without intention or negligence of the company."
+            },{
+                "title":"5.5.",
+                "article":"The API key used in transactions and other services are encrypted and thoroughly managed. However, the Company recommends updating the API key periodically just in case. Please note that changing the API key during the Free Trial can lead to a termination of the trial provided."
+            }]
+        },
+        {"title":"6. Miscellaneous",
+            "content":[{
+                "title":"6.1.Customer Support",
+                "article":""
+            },{
+                "title":"",
+                "article":"To find more information about Bitcolabi Service and its features or if you need assistance with your account, please visit the “Customer Center” page of the Website. In the event of a conflict between these Terms and any information provided by Customer Support or any other parts of the Website, these Terms will control."
+            },{
+                "title":"6.2. Changes to Terms of Use and Assignment",
+                "article":""
+            },{
+                "title":"",
+                "article":"The Company may, from time to time, change these Terms. If we change important conditions of these Terms at our sole discretion, we will notify all users through the ‘Notices’ page of the Website. By continuing to access the Website or use services after these changes take effect, you agree to be bound by the revised these Terms."
+            },{
+                "title":"6.3. Communication",
+                "article":""
+            },{
+                "title":"",
+                "article":"The Company notifies the member account-related information (e.g., Notices, Response to Inquiry) by sending an email to the email address provided by the member at the time of registration."
+            }]
+        },
+        {"title":"",
+            "content":[{
+                "title":"",
+                "article":"Last Updated: October 31, 2020"
+            }]
+        }
+    ],
+    "kr":[
+        {"title":"",
+        "content":[{
+            "title":"",
+            "article":"비트콜라비(이하 ‘회사')는 컴퓨터 및 기타 디바이스에서 사용할 수 있는 Binance API를 이용한 바이낸스 API 거래 툴을 제공합니다."
+        }]
+        },
+        {"title":"",
+            "content":[{
+                "title":"",
+                "article":"이용 약관은 이용자가 비트콜라비 서비스를 이용하는데 적용됩니다. 본 약관에 언급되는 ‘비트콜라비 서비스’는 바이낸스 API를 이용한 거래주문 서비스 뿐만 아니라 입출금을 제외한 API 기타 서비스를 의미합니다."
+            }]
+        },
+        {"title":"",
+            "content":[{
+                "title":"",
+                "article":"회사 서비스를 이용하거나 회원으로 가입하실 경우 본 약관 및 관련 운영 정책을 확인하거나 동의하게 됩니다."
+            }]
+        },
+        {"title":"1. 비트콜라비 서비스",
+            "content":[{
+                "title":"1.1.",
+                "article":"비트콜라비 서비스는 Binance 서비스 사용 지역 또는 국가에서 정한 관련 법상의 성인 기준 연령 이상이 되어야 합니다."
+            },{
+                "title":"1.2.",
+                "article":"회사는 비트콜라비 웹사이트(https://www.bitcolabi.com)를 통해 Binance API 거래를 쉽고 편리하게 이용할 수 있는 거래환경을 제공합니다. PC 및 휴대폰등 각종 단말기를 통해 비트콜라비 서비스를 이용할 수 있습니다."
+            },{
+                "title":"1.3.",
+                "article":"API Key를 등록한 회원에 한하여 API 기타 서비스를 제공합니다. 이는 Binance API를 통해 거래내역, 전송내역을 회원은 쉽게 확인할 수 있습니다. 이때 API Key는 입출금이 불가능하도록 설정해야 합니다."
+            },{
+                "title":"1.4.",
+                "article":"API 거래주문 서비스는 회원이 직접 등록한 API Key를 통해 주문요청을 한 경우에 한하여 주문요청을 넣어주는 서비스입니다. API 거래주문 서비스는 어떠한 경우에도 회원의 실행요청 없이 실행되지 않습니다."
+            },{
+                "title":"1.5.",
+                "article":"비트콜라비 서비스는 웹사이트의 ‘공지사항’ 페이지를 통해 서비스 업데이트를 명시할 수 있으며 회원은 업데이트 된 버전을 이용하는데 동의합니다."
+            }]
+        },
+        {"title":"2. 멤버십",
+            "content":[{
+                "title":"2.1.",
+                "article":"멤버십은 API 거래주문 서비스를 이용하고자 하는 회원에 한하여 제공된 결제 수단을 통해 결제를 한 회원들에게 주어집니다."
+            },{
+                "title":"2.2.",
+                "article":"가입 후 첫 API Key 등록 시 무료이용 기간이 제공될 수 있습니다. 멤버십 무료 이용 기간은 가입 시 명시되며, API 거래주문 서비스를 체험해 보도록 하기 위한 목적으로 제공됩니다."
+            },{
+                "title":"2.3.",
+                "article":"무료 이용 자격은 비트콜라비의 단독 재량에 따라 결정되며, 회사는 무료 이용의 남용을 방지하기 위해 자격 요건이나 이용 기간을 제한할 수 있습니다. 무료 이용을 사용했던  Binance 계정의 API Key는 무료 이용 자격이 주어지지 않습니다."
+            },{
+                "title":"2.4.",
+                "article":"회사는 첫 API Key 등록시 회원의 API 계정을 통해 무료 이용 자격 판단에 활용할 수 있습니다."
+            },{
+                "title":"2.5.",
+                "article":"멤버십 기간과 무료 이용기간의 종료일은 비트콜라비 웹사이트에서 ‘계정’ 페이지에서 확인할 수 있습니다. 이용기간 만료 시 회원의 멤버십 이용이 제한됩니다."
+            }]
+        },
+        {"title":"3. 결제 및 해지",
+            "content":[{
+                "title":"3.1.",
+                "article":"비트콜라비 서비스 멤버십을 이용하려면 비트콜라비 웹사이트의 ‘계정’ 페이지에 제공된 결제 수단을 통해 멤버십 등록을 할 수 있습니다. 회원은 결제 금액을 통해 멤버십 유형을 선택하게 되며 청구 금액 확인 이후 해당 멤버십 등록이 완료됩니다. 멤버십 결제 내역 확인은 ‘계정' 페이지에서 가능합니다."
+            },{
+                "title":"3.2.",
+                "article":"회사는 잘못된 주소 전송으로 인한 결제 오류 발생 시 책임을 지지 않습니다. 그 외 결제 오류에 대해서는 웹사이트의 고객센터에 방문하여 문의할 수 있습니다."
+            },{
+                "title":"3.3.",
+                "article":"멤버십은 이용기간 만료 시 자동 해지되기 때문에 중간에 해지할 수 없으며, 이미 결제된 금액에 대해서는 환불 처리가 되지 않습니다. 회원은 결제 주기가 종료될 때까지 비트콜라비 서비스를 계속 이용할 수 있습니다."
+            },{
+                "title":"3.4.",
+                "article":"회원은 언제든 웹사이트 내 ‘계정’ 페이지에서 계정을 해지할 수 있으며, 멤버십은 본 약관의 3.3.에 따릅니다."
+            },{
+                "title":"3.5.",
+                "article":"회사는 서비스 요금 및 멤버십을 변경할 수 있습니다. 서비스 요금 및 멤버십의 변경에 대해 적용 시기 등을 포함해 회원에게 이메일로 통지합니다."
+            }]
+        },
+        {"title":"4. 계정 액세스",
+            "content":[{
+                "title":"",
+                "article":"비트콜라비 웹사이트에서 계정을 생성했거나 멤버십을 등록하여 서비스를 이용하는 회원은 비트콜라비 계정에 대한 접근 및 관리 권한을 가지며, 비트콜라비 계정 사용으로 인한 모든 활동에 대해 책임이 있습니다."
+            }]
+        },
+        {"title":"5. 보증 및 책임의 제한",
+            "content":[{
+                "title":"5.1.",
+                "article":"회사는 안정적인 서비스 제공을 위해 노력합니다. 다만, 회사의 책임 없이 서비스 중단이나 오류가 발생할 수 있습니다.(예: 전시, 천재지변, 해결이 곤란한 기술적 결함, 디도스 공격, 웹호스팅 서비스 비정상 제공 등 기타 불가항력 사유) 이에 대해 회사는 제공하는 서비스를 이용함으로써 생기는 발생한 모든 손실, 손해에 대해서는 책임을 지지 않습니다."
+            },{
+                "title":"5.2.",
+                "article":"비트콜라비 서비스는 Binance가 제공하는 API 거래 시스템의 영향을 받습니다. 따라서 해당 시스템의 장애에 따른 문제와 해결에 대해 회사는 책임이 없습니다."
+            },{
+                "title":"5.3.",
+                "article":"회사는 Binance의 서비스 이용규약에 따라 이용자가 속해 있는 국가와 지역의 법령으로 인해 서비스 제공을 거부할 수 있으며, 이용을 금지할 수도 있습니다. 회원은 자신이 속해 있는 국가와 지역의 관계 법령에 의거하여 합법적으로 스스로 본 서비스를 이용하거나 이용하지 않아야 합니다.이용자가 불법적으로 본 서비스를 이용하는 것이 밝혀진 경우, 회사는 언제든지 이용자의 서비스를 정지시키거나 회원의 자격을 박탈할 수 있습니다."
+            },{
+                "title":"5.4.",
+                "article":"회원은 비트콜라비 서비스와 관련하여 자신이 회사에 등록한 이메일 주소 및 비밀번호, API Key(이하 ‘회원정보’) 보안에 대한 책임을 지며, 회사는 회사의 고의 또는 과실 없이 회원정보가 유출되어 발생하는 손해에 대해 책임을 지지 않습니다."
+            },{
+                "title":"5.5.",
+                "article":"거래와 기타 서비스에 이용하는 API Key는 암호화되어 철저하게 관리됩니다. 회사는 만약의 사태를 대비하여 주기적인 API Key 업데이트를 권장합니다. 무료 이용기간이 제공되는 중에는 API Key 수정 시 이용기간이 종료될 수 있습니다."
+            }]
+        },
+        {"title":"6. 기타",
+            "content":[{
+                "title":"6.1.고객센터",
+                "article":""
+            },{
+                "title":"",
+                "article":"비트콜라비 서비스 및 기능에 대한 자세한 정보를 확인하고자 하거나 계정과 관련하여 도움이 필요한 경우 비트콜라비 웹사이트의 ‘고객센터’ 페이지를 이용할 수 있습니다. 본 약관과 고객센터 또는 비트콜라비 웹사이트 내 다른 부분에서 제공하는 내용 사이에 불일치가 존재하는 경우, 본 약관이 우선적으로 적용됩니다."
+            },{
+                "title":"6.2. 이용 약관의 변경",
+                "article":""
+            },{
+                "title":"",
+                "article":"회사는 수시로 본 약관을 변경할 수 있습니다. 회사의 단독 재량에 따라 중요하게 본 약관을 변경하는 경우 비트콜라비 웹사이트의 ‘공지사항’ 페이지를 통해 모든 이용자에게 통지합니다. 변경 사항이 적용된 후에도 비트콜라비 웹사이트에 계속 액세스하거나 서비스를 사용함으로써 이용자는 개정된 약관에 동의하는 것입니다."
+            },{
+                "title":"6.3. 커뮤니케이션",
+                "article":""
+            },{
+                "title":"",
+                "article":"회사는 회원 계정과 관련한 정보(예: 공지, 문의응답)를 회원이 등록 당시 기재한 이메일 주소로 이메일을 전송하는 형태로 통지합니다."
+            }]
+        },
+        {"title":"",
+            "content":[{
+                "title":"",
+                "article":"마지막 업데이트: 2020.10.28"
+            }]
+        }
+    ]
+}

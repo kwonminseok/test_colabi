@@ -1,0 +1,78 @@
+{
+    "message":[
+        {
+            "title":"",
+            "contnet":[{
+                "title":"<>맴버쉽 14일 트라이얼 받고 바이낸스 가입하기<>",
+                "article":""
+            }],
+            "link":["https://accounts.binance.com/en/register?ref=&source=futures"]
+        },
+        {
+            "title":"", //<>는 링크 표시<>
+            "contnet":[{
+                "title":"<>수수료 할인 받고 바이낸스 가입하기 <>",
+                "article":""
+            }],
+            "link":["https://www.binance.com/en/futures/ref/48713395"]
+        },
+        {
+            "title":"1. 맴버쉽 트라이얼",
+            "contnet":[{
+                "title":"1-1",
+                "article":"맴버쉽 14일 트라이얼 또는 수수료 할인 둘 중 한가지만 선택가능합니다. "
+            },
+            {
+                "title":"1-2",
+                "article":"맴버쉽 트라이얼로 가입시 레퍼럴 코드를 입력하면 맴버쉽 트라이얼을 받을 수 없습니다. "
+            }],
+            "link":[]
+        },
+        {
+            "title":"2. API Key",
+            "contnet":[{
+                "title":"2-1",
+                "article":"선물지갑 생성 후 API Key를 발급받아야 합니다. "
+            },
+            {
+                "title":"1-2",
+                "article":"제한사항 수정 클릭 후 선물 거래 활성화,IP 접속 제한: 제한없음으로 체크하셔야 이용 가능합니다."
+            }],
+            "link":[]
+        },
+        {
+            "title":"3. 거래하기",
+            "contnet":[{
+                "title":"3-1",
+                "article":"현재 BTCUSDT, ETHUSDT, LINKUSDT 총 3가지 종목을 지원하고 있습니다."
+            },
+            {
+                "title":"3-2",
+                "article":"양 사이드 포지션 모드는 지원하지 않습니다."
+            },
+            {
+                "title":"3-3",
+                "article":"각 종목마다 차트 종가 주문, 스탑 예약주문은 각각 최대 3개까지 지원하고 있습니다."
+            },
+            {
+                "title":"3-4",
+                "article":"차트 종가 주문, 스탑 예약 주문은 리듀스 온니에서 잘 발휘하며, 리듀스 온니가 아닌 경우, 비용에 차이가 있어 주문이 실패할 수 있습니다."
+            }],
+            "link":[]
+        },
+        {
+            "title":"4. 밸런스",
+            "contnet":[{
+                "title":"4-1",
+                "article":"입금은 선물지갑으로 전송된 양, 출금은 선물지갑에서 전송된 양을 뜻합니다."
+            },
+            {
+                "title":"4-2",
+                "article":"USDT가 사용된 손익, 수수료, 펀딩비 등 모든 타입을 더한 것으로 BNB는 측정되지 않기 때문에 실제와 다를 수 있습니다."
+            }],
+            "link":[]
+        }
+    ]
+}
+
+
